@@ -40,20 +40,6 @@ Observations from per_school_breakdown:
 ### Scores by School Type
 - Thomas High School's data decreased the % of overall passing math by %4, % passing reading by %4, and overall passing by %3.
 
-### Example of how the NaN affected the data:  
-
-### Before :
-School Type			Average Math Score	Average Reading Score	 % Passing Math	  % Passing Reading	    % Overall Passing		
-Charter	              83.5	                   83.9	              94	                  97              	90
-District	            77.0	                   81.0	              67	                  81	              54
-
-
-### After inputing all 9th graders at Thomas High School's math and reading scores as NaN: 
-
-School Type					Average Math Score	Average Reading Score	  % Passing Math	   % Passing Reading	  % Overall Passing
-Charter	                  83.5	              83.9	                  90	               93	                87
-District	                77.0	              81.0	                  67	                81	              54
-
 
 
 
